@@ -1,5 +1,5 @@
 <h1 align="center">Preflight</h1>
-<h2 align="center">a paragliding flight planning tool</h2>
+<h3 align="center">a paragliding flight planning tool</h2>
 <img src="1.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
 <!--
 <a href="https://www.tookay.net/">
@@ -7,7 +7,7 @@
 </a>
 -->
 
-Preflight is currently at early design stage and is intended as a tool to assist pilots in coordinating their flight plans and general logistics around cross-country flight planning
+Preflight is currently at early design stage and is intended as a tool to assist paraglider pilots in coordinating their flight plans and general logistics around cross-country flight planning
 
 ## Planned features
 - matches users with other pilots likely to be flying from the same launch site, 
