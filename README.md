@@ -1,11 +1,11 @@
-<h1 align="center">Dave Martin</h1>
-<a href="https://www.tookay.net/">
+<h1 align="center">Preflight</h1>
+<h2 align="center">a paragliding flight planning tool</h2>
 <img src="1.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
+<!--
+<a href="https://www.tookay.net/">
 <img src="5.jpg" alt="Banner image of paraglider wing" width="100%" align="center" />
 </a>
-
-# Preflight
-Preflight - a paragliding flight planning tool.
+-->
 
 Preflight is currently at early design stage and is intended as a tool to assist pilots in coordinating their flight plans and general logistics around cross-country flight planning
 
