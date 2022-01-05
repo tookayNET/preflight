@@ -9,6 +9,8 @@
 
 Preflight is currently at early design stage and is intended as a tool to assist paraglider pilots in coordinating their flight plans and general logistics around cross-country flight planning
 
+While version 1 will be built using React, the intention is to rebuild the app in Svelte or Vue after the first version is complete, to gain experience in this process and better evaluate the relative pros and cons of these libraries.
+
 ## Planned features
 - match users with other pilots likely to be flying from the same launch site, 
 - assists in recognition of other pilots both in the air and on the ground, 
